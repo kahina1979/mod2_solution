@@ -1,0 +1,19 @@
+.bloc{
+    background: aliceblue;
+    padding: 8px 9px;
+}
+.cadre-titre{
+    background: greenyellow;
+    padding: 6px 12px;
+}
+.cadre-titre h1{
+    font-family: "arial";
+    margin: 0;
+    color: rgb(255, 0, 234);
+}
+.bloc p{
+    font-family: "arial";
+    margin: 20px 0 0 0;
+}
+
+}
